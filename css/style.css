@@ -1,0 +1,169 @@
+
+body{
+    
+  font-family: Roboto, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-image:  url(http://demo.ovathemes.com/codepoint/wp-content/uploads/2017/02/hero.jpg); 
+}
+
+
+
+.mydiv{
+    background-color: white;
+   
+}
+
+.mydiv2{
+    
+}
+
+
+
+.mycontainer{
+  
+      
+}
+
+
+.mypoint{
+    font-size: 25px;
+line-height: 20px;
+color: #337ab7;
+font-weight: 600;
+}
+
+.mypoint:hover{
+    color:#757575;
+    
+
+}
+
+.mybanner{
+    font-size: 14px;
+    line-height: 60px;
+    font-weight: 700;
+    margin-left: 20px;
+    padding:30px;
+    color: white;
+    
+}
+
+
+.mybanner:hover{
+    color: #337ab7;
+    
+}
+
+.myschrfit{
+    padding-left: 150px;
+    font-size: 70px;
+line-height: 82px;
+font-weight: 700;
+margin-bottom: 15px;
+color: white;
+}
+
+.mypara{
+    font-size: 20px;
+
+margin-bottom: 20px;
+color: white;
+font-weight: 600;
+padding-left: 150px;
+}
+
+
+.mylink{
+    border-radius: 30px;
+    font-size: 14px;
+margin-left: 550px;
+color: #fff;
+border-color:white;
+padding: 14px 50px;
+background-color: black;
+}
+
+.mylink:hover{
+    background-color: white; 
+    color: black;
+}
+
+.myschreiben{
+    font-size: 28px;
+line-height: 38px;
+margin-bottom: 15px;
+font-weight: 400;
+color: black;
+padding-left: 60px;
+}
+
+.para{
+    font-size: 18px;
+    margin-bottom: 15px;
+    font-weight: 300;
+    color: #444;
+    padding-left: 60px;
+}
+
+
+.mylink2{
+    
+    margin-left: 50px;
+    font-size: 15px;
+padding: 11px 30px;
+background-color: #47d9e7;
+border: 2px solid #47d9e7;
+border-radius: 20px;
+font-weight: 300;
+
+}
+
+.myimg{
+    padding-left: 40px;
+}
+
+
+.myimg2{
+padding-left: 20px;
+}
+
+
+.mykuli{
+    font-size: 34px;
+line-height: 42px;
+font-weight: 500;
+margin-bottom: 10px;
+padding-left: 70px;
+font-family: Poppins, sans-serif;
+color: black;
+}
+
+.myparagraf{
+    color: #757575;
+    font-size: 20px;
+    line-height: 27px;
+    padding-left: 100px;
+    
+
+}
+
+
+.myimg3 {
+    padding-left: 30px;
+}
+
+
+.mystift{
+    padding-top: 20px;
+    margin-top: 20px;
+    
+    color: black;
+padding-right: 30px;
+}
+
+
+.mypro{
+    
+    color: #444;
+    padding-right: 30px; 
+    
+}
