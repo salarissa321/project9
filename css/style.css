@@ -230,6 +230,75 @@ margin-right: 20px;
 font-size: 16px;
 line-height: 26px;
 font-weight: 300;
+}
+
+.myspan{
+    background-color: #757575;
+}
+
+.mysubtitel{
+    font-size: 34px;
+    line-height: 42px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin: 0;
+    color: #222;
+    text-align: center;
+}
+
+.mytext{
+    color: #757575;
+font-size: 19px;
+line-height: 27px;
+padding: 0 5%;
+font-weight: 300;
+margin: 0 0 10px;
+text-align: center;
+}
+
+.myimage{
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+  
+}
+
+.mysatz{
+    font-weight: 500;
+    margin-bottom: 5px;
+    margin: 0;
+    font-size: 19px;
+line-height: 25px;
+color: #222;
+}
+
+.mysentence{
+    color: #444;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 300;
+    margin: 0 0 10px;
+}
+
+.mybtn{
+padding: 7px 18px;
+font-size: 11px;
+background-color: #47d9e7;
+border: 2px solid #47d9e7;
+color: #fff;
+font-weight: 700;
+text-transform: uppercase;
+letter-spacing: 0.5px;
+border-radius: 20px;
+display: inline-block;
+margin-bottom: 0;
+text-align: center;
+white-space: nowrap;
+vertical-align: middle;
+text-decoration: none;
+}
+
+.myicons{
 
 }
 
