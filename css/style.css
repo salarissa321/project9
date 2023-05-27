@@ -302,3 +302,39 @@ text-decoration: none;
 
 }
 
+.myspan2{
+    font-size: 34px;
+    line-height: 42px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin: 0;
+    color: #222;
+    text-align: center;
+    margin-left: 450px;
+    padding-top: 20px;
+}
+
+.myuntertitel{
+    color: #757575;
+    font-size: 19px;
+    line-height: 27px;
+    padding: 0 5%;
+    font-weight: 300;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+
+.mybild{
+    max-width: 100%;
+height: auto;
+display: inline-block;
+}
+
+
+.mybild2{
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+     
+}
