@@ -23,19 +23,21 @@ body{
       
 }
 
-
 .mypoint{
-    font-size: 25px;
+    display: block;
+    margin-left: -15px;
+    height: 60px;
+padding: 17px 15px;
+font-size: 20px;
 line-height: 20px;
+font-weight: 500;
 color: #337ab7;
-font-weight: 600;
+text-decoration: none;
 }
 
-.mypoint:hover{
-    color:#757575;
-    
 
-}
+
+
 
 .mybanner{
     font-size: 14px;
@@ -336,5 +338,68 @@ display: inline-block;
     max-width: 100%;
     height: auto;
     display: inline-block;
-     
+}
+
+
+.myspan5{
+    font-size: 34px;
+    line-height: 42px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    margin: 0;
+    color: #222;
+    text-align: center;
+    margin-left: 420px;
+}
+
+.myLieblingsSatz{
+    color: #757575;
+    font-size: 19px;
+    line-height: 27px;
+    padding: 0 5%;
+    font-weight: 300;
+    margin: 0 0 10px;
+    text-align: center;
+}
+
+.myquote{
+    color: #47d9e7;
+    font-size: 36px;
+line-height: 36px;
+font-weight: 300;
+font-style: italic;
+display: block;
+margin-left: 180px;
+}
+
+.my-column-text{
+    color: #666;
+font-size: 17px;
+line-height: 27px;
+font-style: italic;
+padding: 20px 0 15px;
+font-weight: 300;
+margin: 0 0 10px;
+text-align: center;
+}
+
+.myfoto{
+    width: 90px;
+height: 90px;
+display: inline-block;
+border-radius: 100%;
+max-width: 100%;
+border: 0;
+margin-left: 160px;
+}
+
+.my-name-foto{
+    line-height: 18px;
+font-weight: 500;
+margin-top: 15px;
+margin-bottom: 0;
+font-size: 16px;
+color: #222;
+margin: 36px 0 12px;
+text-align: center;
 }
